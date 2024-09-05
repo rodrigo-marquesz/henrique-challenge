@@ -29,7 +29,8 @@ Para acessar a documentação, basta acionar o CEO do projeto kkk
 
 ## Mais detalhes de como será o desafio:
 
-![image](https://github.com/user-attachments/assets/ba2e1775-478e-4a9c-bc29-604179b2ec77)
+![java-challenge](https://github.com/user-attachments/assets/211550a5-f668-40f9-ab3d-f039d174aba0)
+
 
 ## Authors
 
